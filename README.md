@@ -1,4 +1,6 @@
-# Bethel Leaderboard App
+# Leaderboard
+
+(Made for Bethel <3>)
 
 Bethel Leaderboard is a simple and publicly accessible leaderboard application that fetches data from a Google Sheet. It allows users to create and share leaderboards with teams and their respective points.
 
@@ -38,9 +40,9 @@ The Google Sheet should contain two sheets:
 
 ## Contributing
 
-The source code for Bethel Leaderboard is publicly available on [GitHub](https://github.com/solomonshalom/myleaderboard). Feel free to contribute, create your own version, or suggest improvements. 
+The source code for Bethel Leaderboard is publicly available on [GitHub](https://github.com/solomonshalom/leaderboard). Feel free to contribute, create your own version, or suggest improvements. 
 
-If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/solomonshalom/myleaderboard).
+If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/solomonshalom/leaderboard).
 
 ## License
 
@@ -48,4 +50,4 @@ This project is licensed under the [ISC License](LICENSE).
 
 ---
 
-**Note:** For the most up-to-date information and detailed instructions, please refer to the [GitHub repository](https://github.com/solomonshalom/myleaderboard).
+**Note:** For the most up-to-date information and detailed instructions, please refer to the [GitHub repository](https://github.com/solomonshalom/leaderboard).

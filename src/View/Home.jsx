@@ -45,11 +45,10 @@ export default function Home() {
           {/* Main Text */}
           <div className="text-center">
             <div className="text-5xl font-bold ">
-              MY <span className="text-yellow-400">LEADERBOARD</span>
+              Bethel <span className="text-yellow-400">Leaderboard</span>
             </div>
             <div className="text-sm mt-2 text-neutral-500">
-              A Simple Leaderboard Application that you can customize on your
-              own
+              A Simple Leaderboard For A Very Advanced Carnival
             </div>
             <div className="flex items-start justify-center mt-4">
               <div className="h-1 w-24 bg-yellow-400 rounded-full"></div>
@@ -66,7 +65,7 @@ export default function Home() {
               <div className="text-xs text-neutral-500">
                 First make a google sheet & copy{" "}
                 <a
-                  href="https://docs.google.com/spreadsheets/d/1bsCWUE1Lyxywvb0rHA4YIHkXaShGn8v5dHbAYW_mIxQ/edit#gid=0"
+                  href="https://docs.google.com/spreadsheets/d/1wIL2frAZIAV8cYL1fQfMU-XHx72pSz1VGop-V3iSI4M/edit?usp=sharing"
                   className="text-blue-500 underline"
                 >
                   this sheet
