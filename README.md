@@ -38,9 +38,9 @@ The Google Sheet should contain two sheets:
 
 ## Contributing
 
-The source code for MyLeaderboard is publicly available on [GitHub](https://github.com/sihilelh/myleaderboard). Feel free to contribute, create your own version, or suggest improvements. 
+The source code for MyLeaderboard is publicly available on [GitHub](https://github.com/solomonshalom/myleaderboard). Feel free to contribute, create your own version, or suggest improvements. 
 
-If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/sihilelh/myleaderboard).
+If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/solomonshalom/myleaderboard).
 
 ## License
 
@@ -48,4 +48,4 @@ This project is licensed under the [ISC License](LICENSE).
 
 ---
 
-**Note:** For the most up-to-date information and detailed instructions, please refer to the [GitHub repository](https://github.com/sihilelh/myleaderboard).
+**Note:** For the most up-to-date information and detailed instructions, please refer to the [GitHub repository](https://github.com/solomonshalom/myleaderboard).
