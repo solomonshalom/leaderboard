@@ -1,6 +1,6 @@
-# MyLeaderboard App
+# Bethel Leaderboard App
 
-MyLeaderboard is a simple and publicly accessible leaderboard application that fetches data from a Google Sheet. It allows users to create and share leaderboards with teams and their respective points.
+Bethel Leaderboard is a simple and publicly accessible leaderboard application that fetches data from a Google Sheet. It allows users to create and share leaderboards with teams and their respective points.
 
 ## Features
 
@@ -24,10 +24,10 @@ MyLeaderboard is a simple and publicly accessible leaderboard application that f
      - Copy the link to the Google Sheet.
 
 2. **Copy Google Sheet Format:**
-   - Copy the Google Sheet format from [this link](https://docs.google.com/spreadsheets/d/1bsCWUE1Lyxywvb0rHA4YIHkXaShGn8v5dHbAYW_mIxQ/edit).
+   - Copy the Google Sheet format from [this link](https://docs.google.com/spreadsheets/d/1wIL2frAZIAV8cYL1fQfMU-XHx72pSz1VGop-V3iSI4M/edit?usp=sharing).
 
 3. **Open the App:**
-   - Open the MyLeaderboard app by visiting [leaderboard.sihilel.com](https://leaderboard.sihilel.com), paste the Google Sheet link on the home page, and press the open button.
+   - Open the Bethel Leaderboard app by visiting [leaderboard.bethelcarnival.fun](https://leaderboard.bethelcarnival.fun), paste the Google Sheet link on the home page, and press the open button.
 
 ## Google Sheet Structure
 
@@ -38,7 +38,7 @@ The Google Sheet should contain two sheets:
 
 ## Contributing
 
-The source code for MyLeaderboard is publicly available on [GitHub](https://github.com/solomonshalom/myleaderboard). Feel free to contribute, create your own version, or suggest improvements. 
+The source code for Bethel Leaderboard is publicly available on [GitHub](https://github.com/solomonshalom/myleaderboard). Feel free to contribute, create your own version, or suggest improvements. 
 
 If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/solomonshalom/myleaderboard).
 
